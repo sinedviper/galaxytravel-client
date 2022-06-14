@@ -12,9 +12,13 @@ const Training = () => {
       <div className="left">
         <h1>Training</h1>
         <p>
-          Eiusmod esse fugiat amet sit magna ex labore laborum irure adipisicing
-          laborum aliqua voluptate commodo. Non cillum ullamco et ad sit
-          adipisicing consequat. Id do eu esse nulla ipsum cupidatat dolor elit.
+          For decades, we have been testing our developments together with
+          SpaceX. Our employees during this time showed the best result,
+          together we overcame all the obstacles that were in our way. First the
+          Moon, then Mars, all these victories show our stubborn testing of the
+          vehicles and our people. So with us you will definitely be able to fly
+          into space in complete safety for an indefinite time and be in the
+          role of an astronaut at least once in your life.
         </p>
         <Link to="/contact">
           <button className="btn">Contact</button>

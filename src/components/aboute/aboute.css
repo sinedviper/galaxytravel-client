@@ -1,0 +1,28 @@
+.aboute {
+  width: 100%;
+  margin: 15rem 0;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  height: 100%;
+}
+.aboute .left {
+  text-align: center;
+  margin: auto;
+  padding: 1rem 4 rem;
+  max-width: 600px;
+}
+.aboute .left p {
+  text-align: justify;
+  margin: 1.2rem 0;
+}
+.aboute .rights {
+  margin: auto;
+  width: 100%;
+  height: 600px;
+  max-width: 800px;
+}
+@media screen and (max-width: 1140px) {
+  .aboute {
+    grid-template-columns: 1fr;
+  }
+}
