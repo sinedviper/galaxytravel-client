@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/galaxytravel/static/css/main.33c3f0ed.css",
-    "main.js": "/galaxytravel/static/js/main.180ea88e.js",
+    "main.js": "/galaxytravel/static/js/main.96e9d7b5.js",
     "static/media/space.mp4": "/galaxytravel/static/media/space.41584ed51700d249bf73.mp4",
     "static/media/heroImg.jpg": "/galaxytravel/static/media/heroImg.717ecc48caf23ce480de.jpg",
     "static/media/flyer3.jpg": "/galaxytravel/static/media/flyer3.d6105302a8f661006499.jpg",
@@ -16,10 +16,10 @@
     "static/media/flyer.jpg": "/galaxytravel/static/media/flyer.168c77079a0ffba52aa4.jpg",
     "index.html": "/galaxytravel/index.html",
     "main.33c3f0ed.css.map": "/galaxytravel/static/css/main.33c3f0ed.css.map",
-    "main.180ea88e.js.map": "/galaxytravel/static/js/main.180ea88e.js.map"
+    "main.96e9d7b5.js.map": "/galaxytravel/static/js/main.96e9d7b5.js.map"
   },
   "entrypoints": [
     "static/css/main.33c3f0ed.css",
-    "static/js/main.180ea88e.js"
+    "static/js/main.96e9d7b5.js"
   ]
 }
