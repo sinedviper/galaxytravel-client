@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.33c3f0ed.css",
-    "main.js": "/static/js/main.c8973851.js",
-    "static/media/space.mp4": "/static/media/space.41584ed51700d249bf73.mp4",
-    "static/media/heroImg.jpg": "/static/media/heroImg.717ecc48caf23ce480de.jpg",
-    "static/media/flyer3.jpg": "/static/media/flyer3.d6105302a8f661006499.jpg",
-    "static/media/station.jpg": "/static/media/station.7130768c5b4320c346d4.jpg",
-    "static/media/starship.jpg": "/static/media/starship.133d5208b314e9c6a722.jpg",
-    "static/media/moon.jpg": "/static/media/moon.91396c73f099b0f6971b.jpg",
-    "static/media/person.jpg": "/static/media/person.a32eecaaadfe82f3f62d.jpg",
-    "static/media/people.jpg": "/static/media/people.a0c5b42c3e4d2f1bb66a.jpg",
-    "static/media/pod.jpg": "/static/media/pod.30776f82b7df80237211.jpg",
-    "static/media/earth.jpg": "/static/media/earth.71328c3f78c4ec52be97.jpg",
-    "static/media/flyer1.jpg": "/static/media/flyer1.07132f2192b80e09cc59.jpg",
-    "static/media/flyer.jpg": "/static/media/flyer.168c77079a0ffba52aa4.jpg",
-    "index.html": "/index.html",
-    "main.33c3f0ed.css.map": "/static/css/main.33c3f0ed.css.map",
-    "main.c8973851.js.map": "/static/js/main.c8973851.js.map"
+    "main.css": "/galaxytravel/static/css/main.33c3f0ed.css",
+    "main.js": "/galaxytravel/static/js/main.2450421e.js",
+    "static/media/space.mp4": "/galaxytravel/static/media/space.41584ed51700d249bf73.mp4",
+    "static/media/heroImg.jpg": "/galaxytravel/static/media/heroImg.717ecc48caf23ce480de.jpg",
+    "static/media/flyer3.jpg": "/galaxytravel/static/media/flyer3.d6105302a8f661006499.jpg",
+    "static/media/station.jpg": "/galaxytravel/static/media/station.7130768c5b4320c346d4.jpg",
+    "static/media/starship.jpg": "/galaxytravel/static/media/starship.133d5208b314e9c6a722.jpg",
+    "static/media/moon.jpg": "/galaxytravel/static/media/moon.91396c73f099b0f6971b.jpg",
+    "static/media/person.jpg": "/galaxytravel/static/media/person.a32eecaaadfe82f3f62d.jpg",
+    "static/media/people.jpg": "/galaxytravel/static/media/people.a0c5b42c3e4d2f1bb66a.jpg",
+    "static/media/pod.jpg": "/galaxytravel/static/media/pod.30776f82b7df80237211.jpg",
+    "static/media/earth.jpg": "/galaxytravel/static/media/earth.71328c3f78c4ec52be97.jpg",
+    "static/media/flyer1.jpg": "/galaxytravel/static/media/flyer1.07132f2192b80e09cc59.jpg",
+    "static/media/flyer.jpg": "/galaxytravel/static/media/flyer.168c77079a0ffba52aa4.jpg",
+    "index.html": "/galaxytravel/index.html",
+    "main.33c3f0ed.css.map": "/galaxytravel/static/css/main.33c3f0ed.css.map",
+    "main.2450421e.js.map": "/galaxytravel/static/js/main.2450421e.js.map"
   },
   "entrypoints": [
     "static/css/main.33c3f0ed.css",
-    "static/js/main.c8973851.js"
+    "static/js/main.2450421e.js"
   ]
 }
